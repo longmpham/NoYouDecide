@@ -1,0 +1,2 @@
+# NoYouDecide
+Learning NodeJS along with frontend and backend apps to create a web application for generating meals. These meals are randomly generated based on the users "mood". They will hit a button to pop up meal inspirations, and provide info like instructions, prep, and things to buy. If they don't like it, they can hit the button again and start over again. It decides for you. No arguments required.
